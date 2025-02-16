@@ -1,0 +1,12 @@
+{
+  "name": "react-go-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ibrahim Pk",
+  "license": "ISC",
+  "description": "A React component for embedding **Go Maps** with location search and markers."
+}
