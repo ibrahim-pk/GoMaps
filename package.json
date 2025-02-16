@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "Ibrahim Pk",
   "license": "ISC",
-  "description": "A React component for embedding **Go Maps** with location search and markers."
+  "description": "A React component for embedding Go Maps with location search and markers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahim-pk/GoMaps"
+  },
+  "bugs": {
+    "url": "https://github.com/ibrahim-pk/GoMaps/issues"
+  },
+  "homepage": "https://github.com/ibrahim-pk/GoMaps"
 }
